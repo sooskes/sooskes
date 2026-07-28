@@ -6,11 +6,7 @@
 
 ## 💡 About Me
 
-I'm a Computer Engineering student who enjoys learning new technologies and turning ideas into projects. My goal is to become a game developer and build immersive experiences using the skills I gain—especially with **C++**.
-
-- 🎓 Computer Engineering Student.
-- 🎮 Aspiring Game Developer.
-- 📚 Always learning, building projects, and improving one step at a time.
+I'm a Computer Engineering student passionate about **game development**. I'm continuously building my skills with the goal of becoming a professional game developer and creating immersive gaming experiences, with **C++** at the core of my journey.
 
 ---
 
