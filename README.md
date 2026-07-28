@@ -32,10 +32,10 @@ I'm a Computer Engineering student who enjoys learning new technologies and turn
 
 ## 🚀 Future Goals
 
-- 🎮 Develop high-quality games using C++.
-- 💼 Work in the AAA game industry.
-- 📚 Continue learning and improving every day.
-- 🚀 Build larger and more challenging projects.
+- 🎮 Develop games with C++
+- 💼 Work as a game developer in the game industry
+- 📚 Continue learning and improving every day
+- 🚀 Build larger and more challenging projects
 
 ---
 
