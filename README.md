@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali Solhjoo!
+# Hi, I'm Ali Solhjoo!
 
 🎓 Computer Engineering Student with a passion for programming and game development.
 
